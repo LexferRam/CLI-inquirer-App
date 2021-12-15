@@ -1,0 +1,23 @@
+{
+  "name": "cliproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LexferRam/CLI-inquiri-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LexferRam/CLI-inquiri-App/issues"
+  },
+  "homepage": "https://github.com/LexferRam/CLI-inquiri-App#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
